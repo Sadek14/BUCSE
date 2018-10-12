@@ -1,3 +1,62 @@
 <resources>
-    <string name="app_name">BU CSE</string>
+    <string name="app_name">BuCse</string>
+    <string name="shovon_details">MSc. (Chalmers University, Sweden),
+BSc. (RUET, BD)\n
+Lecturer and Chairman (In-charge)\n
+Department of CSE\n
+Cell Phone: +88-01705502405\n
+Email: sri.paul@gmail.com </string>
+    <string name="moh">MSc. in CSE(UIU),BSc. in CSE(IIUC)\n
+Lecturer\n
+Department of CSE \n
+Cell Phone: +8801817249918\n
+Email: mozammel@britannia.ac\n
+bappy.mozammel@gmail.com </string>
+
+    <string name="bakaul">
+        MSc. in CSE (JU) \n
+        BSc. in CSE (DIU)\n
+Lecturer (CSE)\n
+Department of CSE\n
+Cell Number: 01620705168\n
+Email: masumbakaul.cse@gmail.com
+    </string>
+    <string name="yousuf">
+        MSc. in CSE (Continue) \n
+        BSc. in EEE (AIUB) \n
+Junior Lecturer \n
+Department of CSE\n
+Cell: +880-01710 703610\n
+Email: yusuf.1809@gmail.com
+    </string>
+    <string name="raju">
+        Adjunct Faculty\n
+Assistant Professor\n
+Department of CSE\n
+Comilla University\n
+Email: mhasanraju@gmail.com
+    </string>
+    <string name="nn">
+        MSc. in CSE\n
+        BSc. in CSE(CoU)\n
+Lecture\n
+Department of CSE \n
+Email: mohib.cse.bd@gmail.com\n
+    </string>
+
+    <string name="rita">
+        MSc.in Mathematics (JnU, BD)\n
+        BSc. in Mathematics (JnU, BD)\n
+Lecturer\n
+Department of CSE \n
+Email: riamathjnu@gmail.com
+    </string>
+    <string name="amena">
+        MSc. in ICT \n
+        BSc. in ICT(CoU) \n
+Lecturer\n
+Department of CSE \n
+Email: amenacou@gmail.com
+    </string>
+
 </resources>

@@ -7,15 +7,19 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    
-    <style name="splash" parent="Theme.AppCompat.NoActionBar" >
 
-        <item name="android:background">@drawable/splash_screen </item>
-        <item name="android:windowFullscreen"> true </item>
-        <item name="android:windowNoTitle"> true </item>
-        <item name="windowActionBar"> false </item>
-        <item name="android:windowContentOverlay">@null </item>
+    <style name="splash" parent="Theme.AppCompat.NoActionBar">
+
+
+        <item name="android:background">@drawable/splash_backgroud</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+
+
 
     </style>
+
 
 </resources>

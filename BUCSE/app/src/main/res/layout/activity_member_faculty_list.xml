@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".member_faculty_list"
+    android:orientation="vertical"
+    android:background="@drawable/backgroud">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="15dp"
+            >
+
+
+            <Button
+                android:id="@+id/shovan_button"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Shovan Kumar Paul"
+                android:textSize="25sp"
+                android:textAllCaps="false"
+                android:textColor="#ffff"
+                android:background="@drawable/reg_button"
+                android:textStyle="italic"/>
+
+
+
+            <Button
+                android:id="@+id/mozammel_button"
+                android:layout_width="match_parent"
+                android:textColor="#ffff"
+                android:background="@drawable/reg_button"
+                android:layout_height="wrap_content"
+                android:text="Mozammel Haque"
+                android:layout_marginTop="3dp"
+                android:textAllCaps="false"
+                android:textSize="25sp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/mohibullah_button"
+                android:layout_width="match_parent"
+                android:textColor="#ffff"
+                android:background="@drawable/reg_button"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:textAllCaps="false"
+                android:text="Md.Mohibullah"
+                android:textSize="25sp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/masum_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ffff"
+                android:background="@drawable/reg_button"
+                android:textAllCaps="false"
+                android:text="Masum Bakaul"
+                android:layout_marginTop="3dp"
+                android:textSize="25sp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/yousuf_button"
+                android:layout_width="match_parent"
+                android:textAllCaps="false"
+                android:layout_height="wrap_content"
+                android:textColor="#ffff"
+                android:background="@drawable/reg_button"
+                android:text="Mahmud Yousuf"
+                android:textSize="25sp"
+                android:layout_marginTop="3dp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/mahmudul_button"
+                android:textAllCaps="false"
+                android:textColor="#ffff"
+                android:background="@drawable/reg_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mahmudul Hasan"
+                android:layout_marginTop="3dp"
+                android:textSize="25sp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/rita_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rita Akter"
+                android:textAllCaps="false"
+                android:textColor="#ffff"
+                android:layout_marginTop="3dp"
+                android:background="@drawable/reg_button"
+                android:textSize="25sp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/amena_button"
+                android:layout_marginTop="3dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false"
+                android:text="Amena Begum"
+                android:textColor="#ffff"
+                android:background="@drawable/reg_button"
+                android:textSize="25sp"
+                android:textStyle="italic"/>
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+    </ScrollView>
+
+
+</LinearLayout>
