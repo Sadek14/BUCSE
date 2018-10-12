@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/shovan_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Shovan Kumar Paul"
+                android:textSize="25dp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/mozammel_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mozammel Haque"
+                android:textSize="25dp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/mohibullah_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Md.Mohibullah"
+                android:textSize="25dp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/masum_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Masum Bakaul"
+                android:textSize="25dp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/yousuf_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mahmud Yousuf"
+                android:textSize="25dp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/mahmudul_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mahmudul Hasan"
+                android:textSize="25dp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/rita_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Rita Akter"
+                android:textSize="25dp"
+                android:textStyle="italic"/>
+            <Button
+                android:id="@+id/amena_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Amena Begum"
+                android:textSize="25dp"
+                android:textStyle="italic"/>
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
